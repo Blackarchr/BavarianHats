@@ -6,14 +6,16 @@
       "condition": "None",
       "name": "Flötenmann",
       "package": "Streamer",
+      "reshasha": "a1d29f24addac61053c3b219215838f4",
       "resource": "papo_adaptive.png"
     },
     {
       "author": "Krawie",
+      "flipresource": "vlesk_flip.png",
       "condition": "None",
-      "backresource": "vlesk_back.png",
       "name": "Pink Imposter",
       "package": "Streamer",
+      "reshasha": "a1d29f24addac61053c3b219215838f4",
       "resource": "vlesk.png"
     }
   ]
