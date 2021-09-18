@@ -7,7 +7,7 @@
       "name": "Flötenmann",
       "package": "Streamer",
       "reshasha": "a1d29f24addac61053c3b219215838f4",
-      "resource": "Papo_adaptive.png"
+      "resource": "papo_adaptive.png"
     },
     {
       "author": "Krawie",
@@ -106,7 +106,7 @@
       "name": "RxZ World",
       "package": "Streamer",
       "reshasha": "a1d29f24addac61053c3b219215838f4",
-      "resource": "Jeff.png"
+      "resource": "jeff.png"
     },
     {
       "author": "Krawie",
@@ -115,6 +115,13 @@
       "package": "Streamer",
       "reshasha": "a1d29f24addac61053c3b219215838f4",
       "resource": "timit.png"
+    },
+    {
+      "author": "Krawie",
+      "condition": "None",
+      "name": "Bart",
+      "package": "Streamer",
+      "reshasha": "a1d29f24addac61053c3b219215838f4",
+      "resource": "bart.png"
     }
-  ]
 }
