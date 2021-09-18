@@ -7,16 +7,114 @@
       "name": "Flötenmann",
       "package": "Streamer",
       "reshasha": "a1d29f24addac61053c3b219215838f4",
-      "resource": "papo_adaptive.png"
+      "resource": "Papo_adaptive.png"
     },
     {
       "author": "Krawie",
-      "flipresource": "vlesk_flip.png",
       "condition": "None",
       "name": "Pink Imposter",
       "package": "Streamer",
       "reshasha": "a1d29f24addac61053c3b219215838f4",
       "resource": "vlesk.png"
+    },
+    {
+      "author": "Krawie",
+      "condition": "None",
+      "name": "Archer",
+      "package": "Developer",
+      "reshasha": "a1d29f24addac61053c3b219215838f4",
+      "resource": "archer.png"
+    },
+    {
+      "author": "Krawie",
+      "condition": "None",
+      "name": "Krawie",
+      "package": "Developer",
+      "reshasha": "a1d29f24addac61053c3b219215838f4",
+      "resource": "Krawie.png"
+    },
+    {
+      "author": "Krawie",
+      "flipresource": "oberbayer_flip.png",
+      "condition": "None",
+      "name": "Oberbayer",
+      "package": "Developer",
+      "reshasha": "a1d29f24addac61053c3b219215838f4",
+      "resource": "oberbayer.png"
+    },
+    {
+      "author": "Krawie",
+      "flipresource": "shushu_flip.png",
+      "condition": "None",
+      "name": "Shushu",
+      "package": "Streamer",
+      "reshasha": "a1d29f24addac61053c3b219215838f4",
+      "resource": "shushu.png"
+    },
+    {
+      "author": "Krawie",
+      "condition": "None",
+      "name": "Unge",
+      "package": "Streamer",
+      "reshasha": "a1d29f24addac61053c3b219215838f4",
+      "resource": "unge.png"
+    },
+    {
+      "author": "Krawie",
+      "condition": "None",
+      "name": "Tim Horus",
+      "package": "Streamer",
+      "reshasha": "a1d29f24addac61053c3b219215838f4",
+      "resource": "Tim_Horus.png"
+    },
+    {
+      "author": "Krawie",
+      "condition": "None",
+      "name": "Lumenti",
+      "package": "Streamer",
+      "reshasha": "a1d29f24addac61053c3b219215838f4",
+      "resource": "lumenti.png"
+    },
+    {
+      "author": "Krawie",
+      "condition": "None",
+      "name": "LoCshot",
+      "package": "Streamer",
+      "reshasha": "a1d29f24addac61053c3b219215838f4",
+      "resource": "LoCshot.png"
+    },
+    {
+      "author": "Krawie",
+      "flipresource": "cap_flip.png",
+      "condition": "None",
+      "name": "Cap",
+      "package": "Streamer",
+      "reshasha": "a1d29f24addac61053c3b219215838f4",
+      "resource": "cap.png"
+    },
+    {
+      "author": "Krawie",
+      "condition": "None",
+      "name": "Hahn",
+      "package": "Streamer",
+      "reshasha": "a1d29f24addac61053c3b219215838f4",
+      "resource": "hahn.png"
+    },
+    {
+      "author": "Krawie",
+      "condition": "None",
+      "name": "RxZ World",
+      "package": "Streamer",
+      "reshasha": "a1d29f24addac61053c3b219215838f4",
+      "resource": "Jeff.png"
+    },
+    {
+      "author": "Krawie",
+      "condition": "None",
+      "name": "Timit",
+      "package": "Streamer",
+      "reshasha": "a1d29f24addac61053c3b219215838f4",
+      "resource": "timit.png"
     }
   ]
 }
